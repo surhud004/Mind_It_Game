@@ -1,8 +1,8 @@
-# Mind It
+# Mind It !!
 ## A Vue.js card matching memory game.
 
 ## Contributors
-Andrew Bastin (https://github.com/AndrewBastin)
+[Andrew Bastin](https://github.com/AndrewBastin)
 
 ## Project setup
 ```
