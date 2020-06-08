@@ -4,6 +4,9 @@
 ## Contributors
 - [Andrew Bastin](https://github.com/AndrewBastin)
 
+## Deploy status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/468effe6-3b2a-4a66-bcdb-c82b2180656c/deploy-status)](https://app.netlify.com/sites/mind-it-game/deploys)
+
 ## Project setup
 ```
 npm install
