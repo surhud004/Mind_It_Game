@@ -37,7 +37,7 @@
       </v-row>
     </v-container>
     <v-footer :padless="padless" class="justify-center" style="color: #E040FB">
-      Designed and Coded by : surhud004 &copy; 2020 <!-- Build Date : 8th June 2020 -->
+      Designed and Coded by : surhud004 & Andrew Bastin &copy; 2020 <!-- Build Date : 8th June 2020 -->
     </v-footer>
   </v-app>
 </template>
